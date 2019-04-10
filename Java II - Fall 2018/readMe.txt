@@ -1,0 +1,1 @@
+This folder features projects from my java II class which include working with JavaFX.

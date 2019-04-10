@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Lab11_RestaurantMenu.jnlp">
+  <information>
+    <title>Lab11_RestaurantMenu</title>
+    <vendor>apaquet5682</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Lab11_RestaurantMenu.jar" size="10851" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Lab11_RestaurantMenu" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="lab11_restaurantmenu.Lab11_RestaurantMenu"  name="Lab11_RestaurantMenu" />
+  <update check="always"/>
+</jnlp>
