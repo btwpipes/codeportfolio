@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab10_ch8_ex1_ChargeValidation", "Lab10_ch8_ex1_ChargeValidation\Lab10_ch8_ex1_ChargeValidation.vcxproj", "{267A5898-EC12-47EC-8E34-B4ECE501F379}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{267A5898-EC12-47EC-8E34-B4ECE501F379}.Debug|x64.ActiveCfg = Debug|x64
+		{267A5898-EC12-47EC-8E34-B4ECE501F379}.Debug|x64.Build.0 = Debug|x64
+		{267A5898-EC12-47EC-8E34-B4ECE501F379}.Debug|x86.ActiveCfg = Debug|Win32
+		{267A5898-EC12-47EC-8E34-B4ECE501F379}.Debug|x86.Build.0 = Debug|Win32
+		{267A5898-EC12-47EC-8E34-B4ECE501F379}.Release|x64.ActiveCfg = Release|x64
+		{267A5898-EC12-47EC-8E34-B4ECE501F379}.Release|x64.Build.0 = Release|x64
+		{267A5898-EC12-47EC-8E34-B4ECE501F379}.Release|x86.ActiveCfg = Release|Win32
+		{267A5898-EC12-47EC-8E34-B4ECE501F379}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E2F5D1F-B386-4042-B2F0-EA1E4202CA8E}
+	EndGlobalSection
+EndGlobal

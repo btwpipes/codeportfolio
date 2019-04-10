@@ -1,0 +1,1 @@
+This folder features projects from my C++ I class. The final project - Checkers game in still in progress.
