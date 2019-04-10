@@ -1,0 +1,1 @@
+This folder features my humble java programming beginning.
