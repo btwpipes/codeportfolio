@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Java2_FinalProject_CarDealership.jnlp">
+  <information>
+    <title>Java2_FinalProject_CarDealership</title>
+    <vendor>dre's laptop</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Java2_FinalProject_CarDealership.jar" size="1082161" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Java2_FinalProject_CarDealership" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="cist2372_finalproject_cardealership.MainWindow"  name="Java2_FinalProject_CarDealership" />
+  <update check="always"/>
+</jnlp>
