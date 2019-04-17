@@ -1,0 +1,4 @@
+﻿  FinalProject_Checkers_v5.cpp
+d:\gtc_classes\07-spring19\cist2361 - c++ programming i\labs_visualstudio\finalproject_checkers_v5\finalproject_checkers_v5\finalproject_checkers_v5.cpp(155): warning C4244: '=': conversion from 'time_t' to 'long', possible loss of data
+d:\gtc_classes\07-spring19\cist2361 - c++ programming i\labs_visualstudio\finalproject_checkers_v5\finalproject_checkers_v5\finalproject_checkers_v5.cpp(963): warning C4244: '=': conversion from 'time_t' to 'long', possible loss of data
+  FinalProject_Checkers_v5.vcxproj -> D:\GTC_Classes\07-Spring19\CIST2361 - C++ Programming I\Labs_VisualStudio\FinalProject_Checkers_v5\Debug\FinalProject_Checkers_v5.exe
